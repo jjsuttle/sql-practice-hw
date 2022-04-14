@@ -4,4 +4,5 @@
 -- | 302750   |
 -- +----------+
 
-
+select count(comments)
+from reviews;
